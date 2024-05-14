@@ -34,3 +34,10 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rage-fox&" alt="rage-fox" /></p>
 
+[![Harsha's LeetCode Stats](https://leetcode-stats-six.vercel.app/?username=Rage-Fox&theme=dark)](https://leetcode.com/Rage-Fox/)
+
+[![Harsha's GeeksforGeeks Stats](https://geeks-for-geeks-stats-api.vercel.app/?userName=ragefox)](https://auth.geeksforgeeks.org/user/ragefox)
+
+![CodeForces Stats](https://codeforces-readme-stats.vercel.app/api/card?username=Rage-Fox)
+![CodeForces Badge](https://codeforces-readme-stats.vercel.app/api/badge?username=Rage-Fox)
+
