@@ -46,9 +46,7 @@
 
 <h3 align="left">GeeksforGeeks Statistics:</h3>
 
-<div align="center">
-  [![Harsha's GeeksforGeeks Stats](https://geeks-for-geeks-stats-api.vercel.app/?userName=ragefox)](https://auth.geeksforgeeks.org/user/ragefox)
-</div>
+[![Harsha's GeeksforGeeks Stats](https://geeks-for-geeks-stats-api.vercel.app/?userName=ragefox)](https://auth.geeksforgeeks.org/user/ragefox)
 
 <h3 align="left">CodeForces Statistics:</h3>
 
