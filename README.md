@@ -35,7 +35,7 @@
 
 <h3 align="left">LeetCode Statistics:</h3>
 
-[![Harsha's Leetcode Stats](https://leetcard.jacoblin.cool/Rage-Fox?ext=contest,heatmap,activity)](https://leetcode.com/Rage-Fox/)
+[![Harsha's Leetcode Stats](https://leetcard.jacoblin.cool/Rage-Fox?theme=unicorn?ext=contest)](https://leetcode.com/Rage-Fox/)
 
 <h3 align="left">GeeksforGeeks Statistics:</h3>
 
