@@ -13,13 +13,13 @@
 
 - 🌱 I’m currently learning **Reactjs and System Design**
 
-- 💬 Ask me about **Problem-Solving, DSA and Backend Development** because I ace in them
+- 💬 Ask me about **Problem-Solving, DSA and Backend Development**
 
-- 📫 Reach me by mailing **harshendrareddy2003@gmail.com**
+- 📫 Reach me by mailing to **harshendrareddy2003@gmail.com**
 
-- 📄 Wanna know about my experiences, go through my resume [https://drive.google.com/file/d/1P9b3OZq7DeqQKIYtqWaJN3dJrxmclqFc/view?usp=sharing](https://drive.google.com/file/d/1P9b3OZq7DeqQKIYtqWaJN3dJrxmclqFc/view?usp=sharing)
+- 📄 Wanna know about me more? Feel free to go through my resume [https://drive.google.com/file/d/1P9b3OZq7DeqQKIYtqWaJN3dJrxmclqFc/view?usp=sharing](https://drive.google.com/file/d/1P9b3OZq7DeqQKIYtqWaJN3dJrxmclqFc/view?usp=sharing)
 
-- ⚡ Fun fact about me is that **I love writing poems and quotations**
+- ⚡ A Fun Fact is that **I love writing poems and quotations**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
