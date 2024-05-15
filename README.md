@@ -17,7 +17,7 @@
 
 - ⚡ A Fun Fact is that **I love writing poems and quotations**
 
-
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=rage-fox&label=Profile%20views&color=0e75b6&style=flat" alt="rage-fox" /> </p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
