@@ -11,7 +11,7 @@
 
 - 💬 Ask me about **Problem-Solving, DSA and Backend Development**
 
-- 📫 Reach me by mailing to **harshendrareddy2003@gmail.com**
+- 📫 Reach out to me by mailing to **harshendrareddy2003@gmail.com**
 
 - 📄 Wanna know about me more? Feel free to go through my resume [https://drive.google.com/file/d/1P9b3OZq7DeqQKIYtqWaJN3dJrxmclqFc/view?usp=sharing](https://drive.google.com/file/d/1P9b3OZq7DeqQKIYtqWaJN3dJrxmclqFc/view?usp=sharing)
 
