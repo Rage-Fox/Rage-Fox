@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Harsha</h1>
+<h1 align="center">Hi 👋🏻, I'm Harsha</h1>
 <h3 align="center">Coder & Web Developer</h3>
 
 - ❤ Good at Competitive Programming and Backend Web Development
