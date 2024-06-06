@@ -7,7 +7,7 @@
 
 - 🔥 I’m dedicated to finding a role in a reputable company where I can comfortably use my skills and contribute to their success story
 
-- 🌱 I’m currently learning **Reactjs and System Design**
+- 🌱 I’m currently learning **Reactjs and Graphs in C++**
 
 - 💬 Ask me about **Problem-Solving, DSA and Backend Development**
 
