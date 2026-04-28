@@ -20,14 +20,23 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rage-fox&label=Profile%20views&color=0e75b6&style=flat" alt="rage-fox" /> </p>
 
 <h3 align="left">Connect with me:</h3>
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/harshendra-reddy" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="harshendra-reddy" height="30" width="40" /></a>
+  <a href="https://instagram.com/harshendra_reddy" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="harshendra_reddy" height="30" width="40" /></a>
+  <a href="https://www.hackerrank.com/harshendrareddy" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="harshendrareddy" height="30" width="40" /></a>
+  <a href="https://codeforces.com/profile/rage-fox" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="rage-fox" height="30" width="40" /></a>
+  <a href="https://www.leetcode.com/rage-fox" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="rage-fox" height="30" width="40" /></a>
+  <a href="https://auth.geeksforgeeks.org/user/ragefox" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="ragefox" height="30" width="40" /></a>
+</p>
 <table>
   <tr>
-    <td><a href="https://linkedin.com/in/harshendra-reddy"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30"/></a></td>
-    <td><a href="https://instagram.com/harshendra_reddy"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" height="30"/></a></td>
-    <td><a href="https://www.hackerrank.com/harshendrareddy"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" height="30"/></a></td>
-    <td><a href="https://codeforces.com/profile/rage-fox"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" height="30"/></a></td>
-    <td><a href="https://www.leetcode.com/rage-fox"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" height="30"/></a></td>
-    <td><a href="https://auth.geeksforgeeks.org/user/ragefox"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" height="30"/></a></td>
+    <td><a href="https://linkedin.com/in/harshendra-reddy"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40" /></a></td>
+    <td><a href="https://instagram.com/harshendra_reddy"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" height="30" width="40" /></a></td>
+    <td><a href="https://www.hackerrank.com/harshendrareddy"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" height="30" width="40" /></a></td>
+    <td><a href="https://codeforces.com/profile/rage-fox"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" height="30" width="40" /></a></td>
+    <td><a href="https://www.leetcode.com/rage-fox"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" height="30" width="40" /></a></td>
+    <td><a href="https://auth.geeksforgeeks.org/user/ragefox"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" height="30" width="40" /></a></td>
   </tr>
 </table>
 
