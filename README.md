@@ -13,7 +13,7 @@
 
 - 📫 Reach out to me by mailing to **harshendrareddy2003@gmail.com**
 
-- 📄 Wanna know about me more? Feel free to go through my resume [Resume View Link](https://docs.google.com/document/d/1C8lj-IAD5mr-0NrbB5OK7vn0_lNsl-Vu/edit?usp=sharing&ouid=112322274469375151684&rtpof=true&sd=true)
+- 📄 Wanna know about me more? Feel free to go through my resume [Resume View Link](https://drive.google.com/file/d/1wHgjeqrZUrcPVSLF25Wfc-RY4rxchCEa/view?usp=sharing)
 
 - ⚡ A Fun Fact is that **I love writing poems and quotations**
 
