@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋🏻, I'm Harsha</h1>
-<h3 align="center">Coder & Web Developer</h3>
+<h3 align="center">Software Developer & Competitive Programmer</h3>
 
 - ❤ Good at Competitive Programming and Backend Web Development
 
@@ -7,15 +7,15 @@
 
 - 🔥 I’m dedicated to finding a role in a reputable company where I can comfortably use my skills and contribute to their success story
 
-- 🌱 I’m currently learning **Reactjs and Graphs in C++**
+- 🌱 I’m currently learning **React.js, Graphs (C++) and System Design (OOP Java)**
 
 - 💬 Ask me about **Problem-Solving, DSA and Backend Development**
 
 - 📫 Reach out to me by mailing to **harshendrareddy2003@gmail.com**
 
-- 📄 Wanna know about me more? Feel free to go through my resume [Resume View Link](https://drive.google.com/file/d/1wHgjeqrZUrcPVSLF25Wfc-RY4rxchCEa/view?usp=sharing)
+- 📄 Wanna know about me more? Feel free to go through my resume [Resume View Link](https://drive.google.com/file/d/1NFjnqkb3ed3TXCYmtn2BLupQTyAJWpGS/view?usp=sharing)
 
-- ⚡ A Fun Fact is that **I love writing poems and quotations**
+- ⚡ A Fun Fact is that **I'm also a Free Verse Writer**
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rage-fox&label=Profile%20views&color=0e75b6&style=flat" alt="rage-fox" /> </p>
 
